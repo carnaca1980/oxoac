@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ode><userPreferences><userPreference><key>theme</key><value>base</value></userPreference></userPreferences><odeResources><odeResource><key>odeVersionId</key><value>20260428143152BKUCCR</value></odeResource><odeResource><key>odeId</key><value>20260428125116CCKJEI</value></odeResource><odeResource><key>odeVersionName</key><value>0</value></odeResource><odeResource><key>isDownload</key><value>true</value></odeResource><odeResource><key>eXeVersion</key><value>v3.0.2</value></odeResource></odeResources><odeProperties><odeProperty><key>pp_title</key><value/></odeProperty><odeProperty><key>pp_subtitle</key><value/></odeProperty><odeProperty><key>pp_lang</key><value/></odeProperty><odeProperty><key>pp_author</key><value/></odeProperty><odeProperty><key>license</key><value>creative commons: attribution - share alike 4.0</value></odeProperty><odeProperty><key>pp_description</key><value/></odeProperty><odeProperty><key>exportSource</key><value>true</value></odeProperty><odeProperty><key>pp_addExeLink</key><value>true</value></odeProperty><odeProperty><key>pp_addPagination</key><value>false</value></odeProperty><odeProperty><key>pp_addSearchBox</key><value>false</value></odeProperty><odeProperty><key>pp_addAccessibilityToolbar</key><value>false</value></odeProperty><odeProperty><key>pp_extraHeadContent</key><value/></odeProperty><odeProperty><key>footer</key><value/></odeProperty></odeProperties><odeNavStructures><odeNavStructure><odePageId>20260428143152OMYSVY</odePageId><odeParentPageId/><pageName>Introducción a los oxoácidos (IUPAC 2005)</pageName><odeNavStructureOrder>1</odeNavStructureOrder><odeNavStructureProperties><odeNavStructureProperty><key>titleNode</key><value>Introducción a los oxoácidos (IUPAC 2005)</value></odeNavStructureProperty><odeNavStructureProperty><key>hidePageTitle</key><value>false</value></odeNavStructureProperty><odeNavStructureProperty><key>titleHtml</key><value/></odeNavStructureProperty><odeNavStructureProperty><key>editableInPage</key><value>false</value></odeNavStructureProperty><odeNavStructureProperty><key>titlePage</key><value>Introducción a los oxoácidos (IUPAC 2005)</value></odeNavStructureProperty><odeNavStructureProperty><key>visibility</key><value>true</value></odeNavStructureProperty><odeNavStructureProperty><key>highlight</key><value>false</value></odeNavStructureProperty><odeNavStructureProperty><key>description</key><value/></odeNavStructureProperty></odeNavStructureProperties><odePagStructures><odePagStructure><odePageId>20260428143152OMYSVY</odePageId><odeBlockId>20260428143152ZRNFFZ</odeBlockId><blockName>¿Qué es un oxoácido?</blockName><iconName/><odePagStructureOrder>1</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152OMYSVY</odePageId><odeBlockId>20260428143152ZRNFFZ</odeBlockId><odeIdeviceId>20260428145318629RSP</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div style="font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;¿Qué es un oxoácido?&lt;/h2&gt;
+&lt;p&gt;Los oxoácidos son compuestos formados por &lt;strong&gt;hidrógeno, oxígeno y otro elemento central&lt;/strong&gt;, normalmente un no metal, aunque también pueden formarlos algunos metales en estados de oxidación altos (como el cromo o el manganeso).&lt;/p&gt;
+&lt;div style="background: #fef3c7; border-left: 6px solid #f59e0b; padding: 14px; border-radius: 12px; margin: 16px 0;"&gt;
+&lt;p&gt;&lt;strong&gt;Idea clave:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Un oxoácido siempre contiene:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H + elemento central + O&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 style="color: #2563eb;"&gt;Ejemplos&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;HNO₃&lt;/strong&gt; → ácido nítrico&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H₂SO₄&lt;/strong&gt; → ácido sulfúrico&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H₃PO₄&lt;/strong&gt; → ácido fosfórico&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H₂Cr₂O₇&lt;/strong&gt; → ácido dicrómico&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HMnO₄&lt;/strong&gt; → ácido permangánico&lt;/p&gt;
+&lt;h3 style="color: #2563eb;"&gt;¿Qué tienen en común?&lt;/h3&gt;
+&lt;p&gt;Todos poseen hidrógeno unido a un grupo oxigenado.&lt;/p&gt;
+&lt;p&gt;Ese hidrógeno puede liberarse como:&lt;/p&gt;
+&lt;p style="text-align: center; font-size: 22px;"&gt;&lt;strong&gt;H⁺&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Por eso presentan comportamiento ácido.&lt;/p&gt;
+&lt;div style="background: #eff6ff; padding: 14px; border-radius: 12px;"&gt;
+&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El ácido nítrico en agua puede liberar protones H⁺, comportándose como ácido.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 style="color: #2563eb;"&gt;Cómo los vamos a nombrar&lt;/h3&gt;
+&lt;p&gt;Vamos a trabajar tres nomenclaturas:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1) De hidrógeno con prefijos numerales&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2) De adición con prefijos numerales&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3) Tradicional (aceptada)&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="background: #ecfdf5; border-left: 6px solid #22c55e; padding: 14px; border-radius: 12px; margin-top: 16px;"&gt;
+&lt;p&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;aprender a calcular el número de oxidación del elemento central y poder nombrar cualquier oxoácido correctamente.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260428145318629RSP","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div style=\"font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;¿Qué es un oxoácido?&lt;/h2&gt;\n&lt;p&gt;Los oxoácidos son compuestos formados por &lt;strong&gt;hidrógeno, oxígeno y otro elemento central&lt;/strong&gt;, normalmente un no metal, aunque también pueden formarlos algunos metales en estados de oxidación altos (como el cromo o el manganeso).&lt;/p&gt;\n&lt;div style=\"background: #fef3c7; border-left: 6px solid #f59e0b; padding: 14px; border-radius: 12px; margin: 16px 0;\"&gt;\n&lt;p&gt;&lt;strong&gt;Idea clave:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Un oxoácido siempre contiene:&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;H + elemento central + O&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;h3 style=\"color: #2563eb;\"&gt;Ejemplos&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;HNO₃&lt;/strong&gt; → ácido nítrico&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;H₂SO₄&lt;/strong&gt; → ácido sulfúrico&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;H₃PO₄&lt;/strong&gt; → ácido fosfórico&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;H₂Cr₂O₇&lt;/strong&gt; → ácido dicrómico&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;HMnO₄&lt;/strong&gt; → ácido permangánico&lt;/p&gt;\n&lt;h3 style=\"color: #2563eb;\"&gt;¿Qué tienen en común?&lt;/h3&gt;\n&lt;p&gt;Todos poseen hidrógeno unido a un grupo oxigenado.&lt;/p&gt;\n&lt;p&gt;Ese hidrógeno puede liberarse como:&lt;/p&gt;\n&lt;p style=\"text-align: center; font-size: 22px;\"&gt;&lt;strong&gt;H⁺&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Por eso presentan comportamiento ácido.&lt;/p&gt;\n&lt;div style=\"background: #eff6ff; padding: 14px; border-radius: 12px;\"&gt;\n&lt;p&gt;&lt;strong&gt;Ejemplo:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;El ácido nítrico en agua puede liberar protones H⁺, comportándose como ácido.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h3 style=\"color: #2563eb;\"&gt;Cómo los vamos a nombrar&lt;/h3&gt;\n&lt;p&gt;Vamos a trabajar tres nomenclaturas:&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;1) De hidrógeno con prefijos numerales&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;2) De adición con prefijos numerales&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;3) Tradicional (aceptada)&lt;/strong&gt;&lt;/p&gt;\n&lt;div style=\"background: #ecfdf5; border-left: 6px solid #22c55e; padding: 14px; border-radius: 12px; margin-top: 16px;\"&gt;\n&lt;p&gt;&lt;strong&gt;Objetivo:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;aprender a calcular el número de oxidación del elemento central y poder nombrar cualquier oxoácido correctamente.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260428143152OMYSVY</odePageId><odeBlockId>20260428143152AZSXNN</odeBlockId><blockName>Números de oxidación: la base de todo</blockName><iconName/><odePagStructureOrder>2</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152OMYSVY</odePageId><odeBlockId>20260428143152AZSXNN</odeBlockId><odeIdeviceId>202604281454123316R4</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div style="font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Números de oxidación: la base de todo&lt;/h2&gt;
+&lt;p&gt;Para formular y nombrar bien, necesitamos saber el número de oxidación del átomo central.&lt;/p&gt;
+&lt;p&gt;Lo bueno es que siempre se calcula igual.&lt;/p&gt;
+&lt;h3 style="color: #2563eb;"&gt;Reglas que sí debes memorizar&lt;/h3&gt;
+&lt;div style="background: #f8fafc; padding: 16px; border-radius: 12px;"&gt;
+&lt;p&gt;&lt;strong&gt;H → +1&lt;/strong&gt; (en oxoácidos)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O → −2&lt;/strong&gt; (salvo excepciones que no trabajaremos aquí)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;La suma total = 0&lt;/strong&gt; (porque la molécula es neutra)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style="background: #fef3c7; border-left: 6px solid #f59e0b; padding: 14px; border-radius: 12px; margin: 16px 0;"&gt;
+&lt;p&gt;&lt;strong&gt;Regla de oro:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;suma de oxidaciones = carga total&lt;/p&gt;
+&lt;p&gt;si la molécula es neutra → suma = 0&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 style="color: #2563eb;"&gt;Ejemplo 1. HNO₃&lt;/h3&gt;
+&lt;p&gt;Sabemos:&lt;/p&gt;
+&lt;p&gt;H = +1&lt;/p&gt;
+&lt;p&gt;O = −2&lt;/p&gt;
+&lt;p&gt;N = x&lt;/p&gt;
+&lt;p&gt;Planteamos:&lt;/p&gt;
+&lt;p style="text-align: center; font-size: 22px;"&gt;&lt;strong&gt;(+1) + x + 3(−2) = 0&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1 + x − 6 = 0&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;x − 5 = 0&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;x = +5&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="background: #eff6ff; padding: 14px; border-radius: 12px;"&gt;
+&lt;p&gt;El nitrógeno trabaja con oxidación &lt;strong&gt;+5&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3 style="color: #2563eb;"&gt;Ejemplo 2. H₂SO₄&lt;/h3&gt;
+&lt;p&gt;2(+1) + x + 4(−2) = 0&lt;/p&gt;
+&lt;p&gt;2 + x − 8 = 0&lt;/p&gt;
+&lt;p&gt;x − 6 = 0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;x = +6&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Azufre → &lt;strong&gt;+6&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 style="color: #2563eb;"&gt;Ejemplo 3. H₃PO₄&lt;/h3&gt;
+&lt;p&gt;3(+1) + x + 4(−2) = 0&lt;/p&gt;
+&lt;p&gt;3 + x − 8 = 0&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;x = +5&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fósforo → &lt;strong&gt;+5&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"202604281454123316R4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div style=\"font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Números de oxidación: la base de todo&lt;/h2&gt;\n&lt;p&gt;Para formular y nombrar bien, necesitamos saber el número de oxidación del átomo central.&lt;/p&gt;\n&lt;p&gt;Lo bueno es que siempre se calcula igual.&lt;/p&gt;\n&lt;h3 style=\"color: #2563eb;\"&gt;Reglas que sí debes memorizar&lt;/h3&gt;\n&lt;div style=\"background: #f8fafc; padding: 16px; border-radius: 12px;\"&gt;\n&lt;p&gt;&lt;strong&gt;H → +1&lt;/strong&gt; (en oxoácidos)&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;O → −2&lt;/strong&gt; (salvo excepciones que no trabajaremos aquí)&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;La suma total = 0&lt;/strong&gt; (porque la molécula es neutra)&lt;/p&gt;\n&lt;/div&gt;\n&lt;div style=\"background: #fef3c7; border-left: 6px solid #f59e0b; padding: 14px; border-radius: 12px; margin: 16px 0;\"&gt;\n&lt;p&gt;&lt;strong&gt;Regla de oro:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;suma de oxidaciones = carga total&lt;/p&gt;\n&lt;p&gt;si la molécula es neutra → suma = 0&lt;/p&gt;\n&lt;/div&gt;\n&lt;h3 style=\"color: #2563eb;\"&gt;Ejemplo 1. HNO₃&lt;/h3&gt;\n&lt;p&gt;Sabemos:&lt;/p&gt;\n&lt;p&gt;H = +1&lt;/p&gt;\n&lt;p&gt;O = −2&lt;/p&gt;\n&lt;p&gt;N = x&lt;/p&gt;\n&lt;p&gt;Planteamos:&lt;/p&gt;\n&lt;p style=\"text-align: center; font-size: 22px;\"&gt;&lt;strong&gt;(+1) + x + 3(−2) = 0&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;1 + x − 6 = 0&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;x − 5 = 0&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;x = +5&lt;/strong&gt;&lt;/p&gt;\n&lt;div style=\"background: #eff6ff; padding: 14px; border-radius: 12px;\"&gt;\n&lt;p&gt;El nitrógeno trabaja con oxidación &lt;strong&gt;+5&lt;/strong&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;h3 style=\"color: #2563eb;\"&gt;Ejemplo 2. H₂SO₄&lt;/h3&gt;\n&lt;p&gt;2(+1) + x + 4(−2) = 0&lt;/p&gt;\n&lt;p&gt;2 + x − 8 = 0&lt;/p&gt;\n&lt;p&gt;x − 6 = 0&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;x = +6&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Azufre → &lt;strong&gt;+6&lt;/strong&gt;&lt;/p&gt;\n&lt;h3 style=\"color: #2563eb;\"&gt;Ejemplo 3. H₃PO₄&lt;/h3&gt;\n&lt;p&gt;3(+1) + x + 4(−2) = 0&lt;/p&gt;\n&lt;p&gt;3 + x − 8 = 0&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;x = +5&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Fósforo → &lt;strong&gt;+5&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260428143152OMYSVY</odePageId><odeBlockId>20260428143152UUPCHZ</odeBlockId><blockName>Ahora te toca a ti</blockName><iconName/><odePagStructureOrder>3</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152OMYSVY</odePageId><odeBlockId>20260428143152UUPCHZ</odeBlockId><odeIdeviceId>202604281456135527CA</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div id="oxidacion-oxoacidos" style="font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Practica: números de oxidación en oxoácidos&lt;/h2&gt;
+&lt;p&gt;Calcula el número de oxidación del elemento central e introduce solo el número. Por ejemplo: si es +6, escribe &lt;strong&gt;6&lt;/strong&gt;.&lt;/p&gt;
+&lt;div id="ejerciciosOxidacion"&gt;&lt;/div&gt;
+&lt;button onclick="reiniciarOxidacion()" style="margin-top: 18px; background: #2563eb; color: white; border: none; padding: 12px 18px; border-radius: 12px; font-weight: bold; cursor: pointer;"&gt; Reiniciar &lt;/button&gt;
+&lt;p id="resultadoOxidacion" style="font-weight: bold; font-size: 18px; margin-top: 16px;"&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;script&gt;
+const ejerciciosOxidacion = [
+  { formula:"HNO3", elemento:"N", respuesta:5, explicacion:"(+1) + x + 3(-2) = 0 → x = +5." },
+  { formula:"HNO2", elemento:"N", respuesta:3, explicacion:"(+1) + x + 2(-2) = 0 → x = +3." },
+  { formula:"H2SO4", elemento:"S", respuesta:6, explicacion:"2(+1) + x + 4(-2) = 0 → x = +6." },
+  { formula:"H2SO3", elemento:"S", respuesta:4, explicacion:"2(+1) + x + 3(-2) = 0 → x = +4." },
+  { formula:"H3PO4", elemento:"P", respuesta:5, explicacion:"3(+1) + x + 4(-2) = 0 → x = +5." },
+  { formula:"H3PO3", elemento:"P", respuesta:3, explicacion:"3(+1) + x + 3(-2) = 0 → x = +3." },
+  { formula:"HClO4", elemento:"Cl", respuesta:7, explicacion:"(+1) + x + 4(-2) = 0 → x = +7." },
+  { formula:"HClO", elemento:"Cl", respuesta:1, explicacion:"(+1) + x + (-2) = 0 → x = +1." },
+  { formula:"H2Cr2O7", elemento:"Cr", respuesta:6, explicacion:"2(+1) + 2x + 7(-2) = 0 → 2x = 12 → x = +6." },
+  { formula:"HMnO4", elemento:"Mn", respuesta:7, explicacion:"(+1) + x + 4(-2) = 0 → x = +7." }
+];
+
+let correctasOxidacion = 0;
+let respondidasOxidacion = new Array(ejerciciosOxidacion.length).fill(false);
+
+function cargarOxidacion() {
+  const cont = document.getElementById("ejerciciosOxidacion");
+  cont.innerHTML = "";
+
+  ejerciciosOxidacion.forEach((ej, i) =&gt; {
+    const box = document.createElement("div");
+    box.style.background = "#f8fafc";
+    box.style.border = "1px solid #cbd5e1";
+    box.style.borderRadius = "14px";
+    box.style.padding = "16px";
+    box.style.marginTop = "14px";
+
+    box.innerHTML = `
+      &lt;p&gt;&lt;strong&gt;${i + 1}) ${ej.formula}&lt;/strong&gt;&lt;/p&gt;
+      &lt;p&gt;Número de oxidación de &lt;strong&gt;${ej.elemento}&lt;/strong&gt;:&lt;/p&gt;
+      &lt;input id="ox${i}" type="number" step="1" style="padding:10px; border-radius:10px; border:1px solid #cbd5e1; width:120px;"&gt;
+      &lt;button onclick="corregirOxidacion(${i})" style="margin-left:8px; padding:10px 14px; border:none; background:#2563eb; color:white; border-radius:10px; cursor:pointer;"&gt;Corregir&lt;/button&gt;
+      &lt;p id="fbOx${i}" style="font-weight:bold;"&gt;&lt;/p&gt;
+    `;
+
+    cont.appendChild(box);
+  });
+
+  actualizarResultadoOxidacion();
+}
+
+function corregirOxidacion(i) {
+  const valor = parseInt(document.getElementById("ox" + i).value);
+  const fb = document.getElementById("fbOx" + i);
+  const ej = ejerciciosOxidacion[i];
+
+  if (isNaN(valor)) {
+    fb.style.color = "#991b1b";
+    fb.innerHTML = "Introduce un número.";
+    return;
+  }
+
+  if (!respondidasOxidacion[i]) {
+    respondidasOxidacion[i] = true;
+    if (valor === ej.respuesta) correctasOxidacion++;
+  }
+
+  if (valor === ej.respuesta) {
+    fb.style.color = "#166534";
+    fb.innerHTML = "Correcto. " + ej.explicacion;
+  } else {
+    fb.style.color = "#991b1b";
+    fb.innerHTML = "No es correcto. " + ej.explicacion;
+  }
+
+  actualizarResultadoOxidacion();
+}
+
+function actualizarResultadoOxidacion() {
+  const respondidas = respondidasOxidacion.filter(x =&gt; x).length;
+  document.getElementById("resultadoOxidacion").innerHTML =
+    "Puntuación: " + correctasOxidacion + "/" + ejerciciosOxidacion.length +
+    " | Respondidas: " + respondidas + "/" + ejerciciosOxidacion.length;
+}
+
+function reiniciarOxidacion() {
+  correctasOxidacion = 0;
+  respondidasOxidacion = new Array(ejerciciosOxidacion.length).fill(false);
+  cargarOxidacion();
+}
+
+cargarOxidacion();
+&lt;/script&gt;
+&lt;/p&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"202604281456135527CA","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div id=\"oxidacion-oxoacidos\" style=\"font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Practica: números de oxidación en oxoácidos&lt;/h2&gt;\n&lt;p&gt;Calcula el número de oxidación del elemento central e introduce solo el número. Por ejemplo: si es +6, escribe &lt;strong&gt;6&lt;/strong&gt;.&lt;/p&gt;\n&lt;div id=\"ejerciciosOxidacion\"&gt;&lt;/div&gt;\n&lt;button onclick=\"reiniciarOxidacion()\" style=\"margin-top: 18px; background: #2563eb; color: white; border: none; padding: 12px 18px; border-radius: 12px; font-weight: bold; cursor: pointer;\"&gt; Reiniciar &lt;/button&gt;\n&lt;p id=\"resultadoOxidacion\" style=\"font-weight: bold; font-size: 18px; margin-top: 16px;\"&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;p&gt;\n&lt;script&gt;\nconst ejerciciosOxidacion = [\n  { formula:\"HNO3\", elemento:\"N\", respuesta:5, explicacion:\"(+1) + x + 3(-2) = 0 → x = +5.\" },\n  { formula:\"HNO2\", elemento:\"N\", respuesta:3, explicacion:\"(+1) + x + 2(-2) = 0 → x = +3.\" },\n  { formula:\"H2SO4\", elemento:\"S\", respuesta:6, explicacion:\"2(+1) + x + 4(-2) = 0 → x = +6.\" },\n  { formula:\"H2SO3\", elemento:\"S\", respuesta:4, explicacion:\"2(+1) + x + 3(-2) = 0 → x = +4.\" },\n  { formula:\"H3PO4\", elemento:\"P\", respuesta:5, explicacion:\"3(+1) + x + 4(-2) = 0 → x = +5.\" },\n  { formula:\"H3PO3\", elemento:\"P\", respuesta:3, explicacion:\"3(+1) + x + 3(-2) = 0 → x = +3.\" },\n  { formula:\"HClO4\", elemento:\"Cl\", respuesta:7, explicacion:\"(+1) + x + 4(-2) = 0 → x = +7.\" },\n  { formula:\"HClO\", elemento:\"Cl\", respuesta:1, explicacion:\"(+1) + x + (-2) = 0 → x = +1.\" },\n  { formula:\"H2Cr2O7\", elemento:\"Cr\", respuesta:6, explicacion:\"2(+1) + 2x + 7(-2) = 0 → 2x = 12 → x = +6.\" },\n  { formula:\"HMnO4\", elemento:\"Mn\", respuesta:7, explicacion:\"(+1) + x + 4(-2) = 0 → x = +7.\" }\n];\n\nlet correctasOxidacion = 0;\nlet respondidasOxidacion = new Array(ejerciciosOxidacion.length).fill(false);\n\nfunction cargarOxidacion() {\n  const cont = document.getElementById(\"ejerciciosOxidacion\");\n  cont.innerHTML = \"\";\n\n  ejerciciosOxidacion.forEach((ej, i) =&gt; {\n    const box = document.createElement(\"div\");\n    box.style.background = \"#f8fafc\";\n    box.style.border = \"1px solid #cbd5e1\";\n    box.style.borderRadius = \"14px\";\n    box.style.padding = \"16px\";\n    box.style.marginTop = \"14px\";\n\n    box.innerHTML = `\n      &lt;p&gt;&lt;strong&gt;${i + 1}) ${ej.formula}&lt;/strong&gt;&lt;/p&gt;\n      &lt;p&gt;Número de oxidación de &lt;strong&gt;${ej.elemento}&lt;/strong&gt;:&lt;/p&gt;\n      &lt;input id=\"ox${i}\" type=\"number\" step=\"1\" style=\"padding:10px; border-radius:10px; border:1px solid #cbd5e1; width:120px;\"&gt;\n      &lt;button onclick=\"corregirOxidacion(${i})\" style=\"margin-left:8px; padding:10px 14px; border:none; background:#2563eb; color:white; border-radius:10px; cursor:pointer;\"&gt;Corregir&lt;/button&gt;\n      &lt;p id=\"fbOx${i}\" style=\"font-weight:bold;\"&gt;&lt;/p&gt;\n    `;\n\n    cont.appendChild(box);\n  });\n\n  actualizarResultadoOxidacion();\n}\n\nfunction corregirOxidacion(i) {\n  const valor = parseInt(document.getElementById(\"ox\" + i).value);\n  const fb = document.getElementById(\"fbOx\" + i);\n  const ej = ejerciciosOxidacion[i];\n\n  if (isNaN(valor)) {\n    fb.style.color = \"#991b1b\";\n    fb.innerHTML = \"Introduce un número.\";\n    return;\n  }\n\n  if (!respondidasOxidacion[i]) {\n    respondidasOxidacion[i] = true;\n    if (valor === ej.respuesta) correctasOxidacion++;\n  }\n\n  if (valor === ej.respuesta) {\n    fb.style.color = \"#166534\";\n    fb.innerHTML = \"Correcto. \" + ej.explicacion;\n  } else {\n    fb.style.color = \"#991b1b\";\n    fb.innerHTML = \"No es correcto. \" + ej.explicacion;\n  }\n\n  actualizarResultadoOxidacion();\n}\n\nfunction actualizarResultadoOxidacion() {\n  const respondidas = respondidasOxidacion.filter(x =&gt; x).length;\n  document.getElementById(\"resultadoOxidacion\").innerHTML =\n    \"Puntuación: \" + correctasOxidacion + \"/\" + ejerciciosOxidacion.length +\n    \" | Respondidas: \" + respondidas + \"/\" + ejerciciosOxidacion.length;\n}\n\nfunction reiniciarOxidacion() {\n  correctasOxidacion = 0;\n  respondidasOxidacion = new Array(ejerciciosOxidacion.length).fill(false);\n  cargarOxidacion();\n}\n\ncargarOxidacion();\n&lt;/script&gt;\n&lt;/p&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure></odePagStructures></odeNavStructure><odeNavStructure><odePageId>20260428143152WNVUJQ</odePageId><odeParentPageId/><pageName>Nomenclatura tradicional</pageName><odeNavStructureOrder>2</odeNavStructureOrder><odeNavStructureProperties><odeNavStructureProperty><key>titleNode</key><value/></odeNavStructureProperty><odeNavStructureProperty><key>hidePageTitle</key><value>false</value></odeNavStructureProperty><odeNavStructureProperty><key>titleHtml</key><value/></odeNavStructureProperty><odeNavStructureProperty><key>editableInPage</key><value>false</value></odeNavStructureProperty><odeNavStructureProperty><key>titlePage</key><value>Nomenclatura tradicional</value></odeNavStructureProperty><odeNavStructureProperty><key>visibility</key><value>true</value></odeNavStructureProperty><odeNavStructureProperty><key>highlight</key><value>false</value></odeNavStructureProperty><odeNavStructureProperty><key>description</key><value/></odeNavStructureProperty></odeNavStructureProperties><odePagStructures><odePagStructure><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152SWRMFG</odeBlockId><blockName>Mapa general de familias</blockName><iconName/><odePagStructureOrder>1</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152SWRMFG</odeBlockId><odeIdeviceId>202604281538585862JF</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div style="font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Nomenclatura tradicional de oxoácidos: mapa general&lt;/h2&gt;
+&lt;p&gt;En nomenclatura tradicional, el nombre del oxoácido depende del &lt;strong&gt;elemento central&lt;/strong&gt; y de su &lt;strong&gt;número de oxidación&lt;/strong&gt;.&lt;/p&gt;
+&lt;div style="background: #fef3c7; border-left: 6px solid #f59e0b; padding: 14px; border-radius: 12px; margin: 16px 0;"&gt;
+&lt;p&gt;&lt;strong&gt;Idea clave:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No se trata de memorizar fórmulas sueltas, sino de reconocer familias.&lt;/p&gt;
+&lt;/div&gt;
+&lt;table style="width: 100%; border-collapse: collapse; margin-top: 18px;"&gt;
+&lt;tbody&gt;
+&lt;tr style="background: #dbeafe;"&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Familia&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Elementos&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Patrón tradicional&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Una valencia habitual&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;B, C, Si&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;ácido ...ico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Dos valencias&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;N, P, As, S&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;...oso / ...ico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Tres valencias&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Mn&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;manganoso / mangánico / permangánico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Cuatro valencias&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Cl, Br, I&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;hipo...oso / ...oso / ...ico / per...ico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Caso especial&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Cr&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;crómico / dicrómico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"202604281538585862JF","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div style=\"font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Nomenclatura tradicional de oxoácidos: mapa general&lt;/h2&gt;\n&lt;p&gt;En nomenclatura tradicional, el nombre del oxoácido depende del &lt;strong&gt;elemento central&lt;/strong&gt; y de su &lt;strong&gt;número de oxidación&lt;/strong&gt;.&lt;/p&gt;\n&lt;div style=\"background: #fef3c7; border-left: 6px solid #f59e0b; padding: 14px; border-radius: 12px; margin: 16px 0;\"&gt;\n&lt;p&gt;&lt;strong&gt;Idea clave:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;No se trata de memorizar fórmulas sueltas, sino de reconocer familias.&lt;/p&gt;\n&lt;/div&gt;\n&lt;table style=\"width: 100%; border-collapse: collapse; margin-top: 18px;\"&gt;\n&lt;tbody&gt;\n&lt;tr style=\"background: #dbeafe;\"&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Familia&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Elementos&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Patrón tradicional&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Una valencia habitual&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;B, C, Si&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;ácido ...ico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Dos valencias&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;N, P, As, S&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;...oso / ...ico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Tres valencias&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Mn&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;manganoso / mangánico / permangánico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Cuatro valencias&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Cl, Br, I&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;hipo...oso / ...oso / ...ico / per...ico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Caso especial&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Cr&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;crómico / dicrómico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;/div&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152PKTYMP</odeBlockId><blockName>Elementos con una valencia habitual</blockName><iconName/><odePagStructureOrder>2</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152PKTYMP</odeBlockId><odeIdeviceId>20260428154509052JS2</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div style="font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Elementos con una valencia habitual&lt;/h2&gt;
+&lt;p&gt;Cuando el elemento central trabaja con una valencia habitual principal, usamos la terminación:&lt;/p&gt;
+&lt;p style="text-align: center; font-size: 26px;"&gt;&lt;strong&gt;-ico&lt;/strong&gt;&lt;/p&gt;
+&lt;table style="width: 100%; border-collapse: collapse; margin-top: 18px;"&gt;
+&lt;tbody&gt;
+&lt;tr style="background: #dbeafe;"&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Elemento&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Valencia habitual&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Fórmula&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Nombre tradicional&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;B&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+3&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₃BO₃&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;&lt;strong&gt;ácido bórico&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;C&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+4&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₂CO₃&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;&lt;strong&gt;ácido carbónico&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Si&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+4&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₂SiO₃&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;&lt;strong&gt;ácido silícico&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div style="background: #ecfdf5; border-left: 6px solid #22c55e; padding: 14px; border-radius: 12px; margin-top: 16px;"&gt;
+&lt;p&gt;&lt;strong&gt;Resumen:&lt;/strong&gt; una valencia habitual → terminación &lt;strong&gt;-ico&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260428154509052JS2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div style=\"font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Elementos con una valencia habitual&lt;/h2&gt;\n&lt;p&gt;Cuando el elemento central trabaja con una valencia habitual principal, usamos la terminación:&lt;/p&gt;\n&lt;p style=\"text-align: center; font-size: 26px;\"&gt;&lt;strong&gt;-ico&lt;/strong&gt;&lt;/p&gt;\n&lt;table style=\"width: 100%; border-collapse: collapse; margin-top: 18px;\"&gt;\n&lt;tbody&gt;\n&lt;tr style=\"background: #dbeafe;\"&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Elemento&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Valencia habitual&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Fórmula&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Nombre tradicional&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;B&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+3&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₃BO₃&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;&lt;strong&gt;ácido bórico&lt;/strong&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;C&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+4&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₂CO₃&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;&lt;strong&gt;ácido carbónico&lt;/strong&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Si&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+4&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₂SiO₃&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;&lt;strong&gt;ácido silícico&lt;/strong&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;div style=\"background: #ecfdf5; border-left: 6px solid #22c55e; padding: 14px; border-radius: 12px; margin-top: 16px;\"&gt;\n&lt;p&gt;&lt;strong&gt;Resumen:&lt;/strong&gt; una valencia habitual → terminación &lt;strong&gt;-ico&lt;/strong&gt;.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152HAIXHR</odeBlockId><blockName>Elementos con dos valencias</blockName><iconName/><odePagStructureOrder>3</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152HAIXHR</odeBlockId><odeIdeviceId>20260428154553065N6O</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div style="font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Elementos con dos valencias&lt;/h2&gt;
+&lt;p&gt;Cuando el elemento tiene dos valencias habituales, usamos:&lt;/p&gt;
+&lt;div style="background: #fef3c7; border-left: 6px solid #f59e0b; padding: 14px; border-radius: 12px; margin: 16px 0;"&gt;
+&lt;p&gt;&lt;strong&gt;Valencia menor → ácido ...oso&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Valencia mayor → ácido ...ico&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;table style="width: 100%; border-collapse: collapse; margin-top: 18px;"&gt;
+&lt;tbody&gt;
+&lt;tr style="background: #dbeafe;"&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Elemento&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Valencias&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Valencia menor&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Valencia mayor&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;N&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+3, +5&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HNO₂ → ácido nitroso&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HNO₃ → ácido nítrico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;P&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+3, +5&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₃PO₃ → ácido fosforoso&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₃PO₄ → ácido fosfórico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;As&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+3, +5&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₃AsO₃ → ácido arsenioso&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₃AsO₄ → ácido arsénico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;S&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+4, +6&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₂SO₃ → ácido sulfuroso&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₂SO₄ → ácido sulfúrico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260428154553065N6O","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div style=\"font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Elementos con dos valencias&lt;/h2&gt;\n&lt;p&gt;Cuando el elemento tiene dos valencias habituales, usamos:&lt;/p&gt;\n&lt;div style=\"background: #fef3c7; border-left: 6px solid #f59e0b; padding: 14px; border-radius: 12px; margin: 16px 0;\"&gt;\n&lt;p&gt;&lt;strong&gt;Valencia menor → ácido ...oso&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Valencia mayor → ácido ...ico&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;table style=\"width: 100%; border-collapse: collapse; margin-top: 18px;\"&gt;\n&lt;tbody&gt;\n&lt;tr style=\"background: #dbeafe;\"&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Elemento&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Valencias&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Valencia menor&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Valencia mayor&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;N&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+3, +5&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HNO₂ → ácido nitroso&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HNO₃ → ácido nítrico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;P&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+3, +5&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₃PO₃ → ácido fosforoso&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₃PO₄ → ácido fosfórico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;As&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+3, +5&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₃AsO₃ → ácido arsenioso&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₃AsO₄ → ácido arsénico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;S&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+4, +6&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₂SO₃ → ácido sulfuroso&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₂SO₄ → ácido sulfúrico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;/div&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152JCSZPE</odeBlockId><blockName>Manganeso: tres valencias</blockName><iconName/><odePagStructureOrder>4</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152JCSZPE</odeBlockId><odeIdeviceId>20260428154609588FAK</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div style="font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Manganeso: tres valencias&lt;/h2&gt;
+&lt;p&gt;El manganeso es un caso especial porque en oxoácidos puede aparecer con tres valencias importantes.&lt;/p&gt;
+&lt;table style="width: 100%; border-collapse: collapse; margin-top: 18px;"&gt;
+&lt;tbody&gt;
+&lt;tr style="background: #dbeafe;"&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Valencia&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Fórmula&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Nombre tradicional&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+4&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₂MnO₃&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;&lt;strong&gt;ácido manganoso&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+6&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₂MnO₄&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;&lt;strong&gt;ácido mangánico&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+7&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HMnO₄&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;&lt;strong&gt;ácido permangánico&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div style="background: #eff6ff; padding: 14px; border-radius: 12px; margin-top: 16px;"&gt;
+&lt;p&gt;&lt;strong&gt;Para PAU:&lt;/strong&gt; los más habituales son &lt;strong&gt;ácido mangánico&lt;/strong&gt; y &lt;strong&gt;ácido permangánico&lt;/strong&gt;. El manganoso puede aparecer como ampliación.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260428154609588FAK","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div style=\"font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Manganeso: tres valencias&lt;/h2&gt;\n&lt;p&gt;El manganeso es un caso especial porque en oxoácidos puede aparecer con tres valencias importantes.&lt;/p&gt;\n&lt;table style=\"width: 100%; border-collapse: collapse; margin-top: 18px;\"&gt;\n&lt;tbody&gt;\n&lt;tr style=\"background: #dbeafe;\"&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Valencia&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Fórmula&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Nombre tradicional&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+4&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₂MnO₃&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;&lt;strong&gt;ácido manganoso&lt;/strong&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+6&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₂MnO₄&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;&lt;strong&gt;ácido mangánico&lt;/strong&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+7&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HMnO₄&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;&lt;strong&gt;ácido permangánico&lt;/strong&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;div style=\"background: #eff6ff; padding: 14px; border-radius: 12px; margin-top: 16px;\"&gt;\n&lt;p&gt;&lt;strong&gt;Para PAU:&lt;/strong&gt; los más habituales son &lt;strong&gt;ácido mangánico&lt;/strong&gt; y &lt;strong&gt;ácido permangánico&lt;/strong&gt;. El manganoso puede aparecer como ampliación.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152YTNBDH</odeBlockId><blockName>Halógenos: cuatro valencias</blockName><iconName/><odePagStructureOrder>5</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152YTNBDH</odeBlockId><odeIdeviceId>20260428154647193SL5</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div style="font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Halógenos: cloro, bromo y yodo&lt;/h2&gt;
+&lt;p&gt;Los halógenos pueden trabajar con cuatro valencias positivas en oxoácidos:&lt;/p&gt;
+&lt;p style="text-align: center; font-size: 22px;"&gt;&lt;strong&gt;+1, +3, +5, +7&lt;/strong&gt;&lt;/p&gt;
+&lt;div style="background: #fef3c7; border-left: 6px solid #f59e0b; padding: 14px; border-radius: 12px; margin: 16px 0;"&gt;
+&lt;p&gt;&lt;strong&gt;Escalera de menor a mayor:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;hipo...oso → ...oso → ...ico → per...ico&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;table style="width: 100%; border-collapse: collapse; margin-top: 18px;"&gt;
+&lt;tbody&gt;
+&lt;tr style="background: #dbeafe;"&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Valencia&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Cloro&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Bromo&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Yodo&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+1&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HClO → ácido hipocloroso&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HBrO → ácido hipobromoso&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HIO → ácido hipoyodoso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+3&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HClO₂ → ácido cloroso&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HBrO₂ → ácido bromoso&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HIO₂ → ácido yodoso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+5&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HClO₃ → ácido clórico&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HBrO₃ → ácido brómico&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HIO₃ → ácido yódico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+7&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HClO₄ → ácido perclórico&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HBrO₄ → ácido perbrómico&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;HIO₄ → ácido peryódico&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260428154647193SL5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div style=\"font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Halógenos: cloro, bromo y yodo&lt;/h2&gt;\n&lt;p&gt;Los halógenos pueden trabajar con cuatro valencias positivas en oxoácidos:&lt;/p&gt;\n&lt;p style=\"text-align: center; font-size: 22px;\"&gt;&lt;strong&gt;+1, +3, +5, +7&lt;/strong&gt;&lt;/p&gt;\n&lt;div style=\"background: #fef3c7; border-left: 6px solid #f59e0b; padding: 14px; border-radius: 12px; margin: 16px 0;\"&gt;\n&lt;p&gt;&lt;strong&gt;Escalera de menor a mayor:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;hipo...oso → ...oso → ...ico → per...ico&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;table style=\"width: 100%; border-collapse: collapse; margin-top: 18px;\"&gt;\n&lt;tbody&gt;\n&lt;tr style=\"background: #dbeafe;\"&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Valencia&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Cloro&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Bromo&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Yodo&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+1&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HClO → ácido hipocloroso&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HBrO → ácido hipobromoso&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HIO → ácido hipoyodoso&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+3&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HClO₂ → ácido cloroso&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HBrO₂ → ácido bromoso&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HIO₂ → ácido yodoso&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+5&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HClO₃ → ácido clórico&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HBrO₃ → ácido brómico&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HIO₃ → ácido yódico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+7&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HClO₄ → ácido perclórico&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HBrO₄ → ácido perbrómico&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;HIO₄ → ácido peryódico&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;/div&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152VDHHVF</odeBlockId><blockName>Cromo: crómico y dicrómico</blockName><iconName/><odePagStructureOrder>6</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152VDHHVF</odeBlockId><odeIdeviceId>20260428154711629VKX</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div style="font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Caso especial: cromo&lt;/h2&gt;
+&lt;p&gt;El cromo en estos oxoácidos trabaja con número de oxidación +6.&lt;/p&gt;
+&lt;table style="width: 100%; border-collapse: collapse; margin-top: 18px;"&gt;
+&lt;tbody&gt;
+&lt;tr style="background: #dbeafe;"&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Fórmula&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Número de oxidación del Cr&lt;/th&gt;
+&lt;th style="padding: 10px; border: 1px solid #cbd5e1;"&gt;Nombre tradicional&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₂CrO₄&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+6&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;&lt;strong&gt;ácido crómico&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;H₂Cr₂O₇&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;+6&lt;/td&gt;
+&lt;td style="padding: 10px; border: 1px solid #cbd5e1;"&gt;&lt;strong&gt;ácido dicrómico&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div style="background: #eff6ff; padding: 14px; border-radius: 12px; margin-top: 16px;"&gt;
+&lt;p&gt;&lt;strong&gt;Idea clave:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No cambia la valencia del Cr. Cambia la estructura del oxoácido: uno contiene un Cr y el otro contiene dos Cr.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260428154711629VKX","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div style=\"font-family: Arial, sans-serif; line-height: 1.7; background: #ffffff; border: 1px solid #e5e7eb; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Caso especial: cromo&lt;/h2&gt;\n&lt;p&gt;El cromo en estos oxoácidos trabaja con número de oxidación +6.&lt;/p&gt;\n&lt;table style=\"width: 100%; border-collapse: collapse; margin-top: 18px;\"&gt;\n&lt;tbody&gt;\n&lt;tr style=\"background: #dbeafe;\"&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Fórmula&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Número de oxidación del Cr&lt;/th&gt;\n&lt;th style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;Nombre tradicional&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₂CrO₄&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+6&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;&lt;strong&gt;ácido crómico&lt;/strong&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;H₂Cr₂O₇&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;+6&lt;/td&gt;\n&lt;td style=\"padding: 10px; border: 1px solid #cbd5e1;\"&gt;&lt;strong&gt;ácido dicrómico&lt;/strong&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;div style=\"background: #eff6ff; padding: 14px; border-radius: 12px; margin-top: 16px;\"&gt;\n&lt;p&gt;&lt;strong&gt;Idea clave:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;No cambia la valencia del Cr. Cambia la estructura del oxoácido: uno contiene un Cr y el otro contiene dos Cr.&lt;/p&gt;\n&lt;/div&gt;\n&lt;/div&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152QSFROZ</odeBlockId><blockName>Autocorregible: nombra el oxoácido</blockName><iconName/><odePagStructureOrder>7</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152QSFROZ</odeBlockId><odeIdeviceId>20260428154754976IUO</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div id="quizTradicionalDef" style="font-family: Arial,sans-serif; background: #f8fafc; border: 1px solid #dbeafe; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Practica: nombra el oxoácido&lt;/h2&gt;
+&lt;p&gt;Elige el nombre tradicional correcto.&lt;/p&gt;
+&lt;div id="preguntasTradDef"&gt;&lt;/div&gt;
+&lt;button onclick="reiniciarTradDef()" style="margin-top: 18px; background: #2563eb; color: white; border: none; padding: 12px 18px; border-radius: 12px; font-weight: bold; cursor: pointer;"&gt; Reiniciar actividad &lt;/button&gt;
+&lt;p id="resultadoTradDef" style="font-size: 18px; font-weight: bold; margin-top: 16px;"&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;script&gt;
+const preguntasTradDef = [
+{f:"H3BO3", opciones:["ácido boroso","ácido bórico","ácido perbórico","ácido hipoboroso"], c:1, e:"B trabaja con +3 como valencia habitual → ácido bórico."},
+{f:"H2CO3", opciones:["ácido carbonoso","ácido carbónico","ácido percarbónico","ácido hipocarbónico"], c:1, e:"C trabaja con +4 como valencia habitual → ácido carbónico."},
+{f:"HNO2", opciones:["ácido nitroso","ácido nítrico","ácido hiponitroso","ácido pernítrico"], c:0, e:"N en +3, valencia menor → ácido nitroso."},
+{f:"HNO3", opciones:["ácido nitroso","ácido nítrico","ácido nitrogenoso","ácido pernítrico"], c:1, e:"N en +5, valencia mayor → ácido nítrico."},
+{f:"H2SO3", opciones:["ácido sulfúrico","ácido sulfuroso","ácido hiposulfuroso","ácido persulfúrico"], c:1, e:"S en +4, valencia menor → ácido sulfuroso."},
+{f:"H2SO4", opciones:["ácido sulfuroso","ácido sulfúrico","ácido persulfuroso","ácido sulfhídrico"], c:1, e:"S en +6, valencia mayor → ácido sulfúrico."},
+{f:"HClO", opciones:["ácido hipocloroso","ácido cloroso","ácido clórico","ácido perclórico"], c:0, e:"Cl en +1, la menor → ácido hipocloroso."},
+{f:"HClO4", opciones:["ácido clórico","ácido cloroso","ácido hipocloroso","ácido perclórico"], c:3, e:"Cl en +7, la mayor → ácido perclórico."},
+{f:"HMnO4", opciones:["ácido manganoso","ácido mangánico","ácido permangánico","ácido hipomanganoso"], c:2, e:"Mn en +7 → ácido permangánico."},
+{f:"H2Cr2O7", opciones:["ácido crómico","ácido dicrómico","ácido cromoso","ácido percrómico"], c:1, e:"Tiene dos átomos de Cr → ácido dicrómico."}
+];
+
+let puntosTradDef = 0;
+let contestadasTradDef = new Array(preguntasTradDef.length).fill(false);
+
+function cargarTradDef(){
+const cont = document.getElementById("preguntasTradDef");
+cont.innerHTML = "";
+
+preguntasTradDef.forEach((p,i)=&gt;{
+const box = document.createElement("div");
+box.style.background = "white";
+box.style.border = "1px solid #cbd5e1";
+box.style.borderRadius = "14px";
+box.style.padding = "16px";
+box.style.marginTop = "14px";
+
+box.innerHTML = "&lt;p&gt;&lt;strong&gt;" + (i+1) + ") " + p.f + "&lt;/strong&gt;&lt;/p&gt;";
+
+p.opciones.forEach((op,j)=&gt;{
+const b = document.createElement("button");
+b.innerHTML = op;
+b.style.display = "block";
+b.style.width = "100%";
+b.style.margin = "8px 0";
+b.style.padding = "10px";
+b.style.textAlign = "left";
+b.style.borderRadius = "10px";
+b.style.border = "1px solid #cbd5e1";
+b.style.cursor = "pointer";
+b.onclick = ()=&gt;corregirTradDef(i,j,b);
+box.appendChild(b);
+});
+
+const fb = document.createElement("p");
+fb.id = "fbTradDef" + i;
+fb.style.fontWeight = "bold";
+box.appendChild(fb);
+
+cont.appendChild(box);
+});
+
+actualizarTradDef();
+}
+
+function corregirTradDef(i,j,b){
+const p = preguntasTradDef[i];
+const fb = document.getElementById("fbTradDef"+i);
+const botones = b.parentElement.querySelectorAll("button");
+
+if(!contestadasTradDef[i]){
+contestadasTradDef[i] = true;
+if(j === p.c) puntosTradDef++;
+}
+
+botones.forEach((x,k)=&gt;{
+x.disabled = true;
+if(k === p.c) x.style.background = "#dcfce7";
+else if(k === j) x.style.background = "#fee2e2";
+});
+
+fb.innerHTML = (j === p.c ? "Correcto. " : "No es correcto. ") + p.e;
+fb.style.color = (j === p.c ? "#166534" : "#991b1b");
+
+actualizarTradDef();
+}
+
+function actualizarTradDef(){
+const respondidas = contestadasTradDef.filter(x=&gt;x).length;
+document.getElementById("resultadoTradDef").innerHTML =
+"Puntuación: " + puntosTradDef + "/" + preguntasTradDef.length +
+" | Respondidas: " + respondidas + "/" + preguntasTradDef.length;
+}
+
+function reiniciarTradDef(){
+puntosTradDef = 0;
+contestadasTradDef = new Array(preguntasTradDef.length).fill(false);
+cargarTradDef();
+}
+
+cargarTradDef();
+&lt;/script&gt;
+&lt;/p&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260428154754976IUO","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div id=\"quizTradicionalDef\" style=\"font-family: Arial,sans-serif; background: #f8fafc; border: 1px solid #dbeafe; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Practica: nombra el oxoácido&lt;/h2&gt;\n&lt;p&gt;Elige el nombre tradicional correcto.&lt;/p&gt;\n&lt;div id=\"preguntasTradDef\"&gt;&lt;/div&gt;\n&lt;button onclick=\"reiniciarTradDef()\" style=\"margin-top: 18px; background: #2563eb; color: white; border: none; padding: 12px 18px; border-radius: 12px; font-weight: bold; cursor: pointer;\"&gt; Reiniciar actividad &lt;/button&gt;\n&lt;p id=\"resultadoTradDef\" style=\"font-size: 18px; font-weight: bold; margin-top: 16px;\"&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;p&gt;\n&lt;script&gt;\nconst preguntasTradDef = [\n{f:\"H3BO3\", opciones:[\"ácido boroso\",\"ácido bórico\",\"ácido perbórico\",\"ácido hipoboroso\"], c:1, e:\"B trabaja con +3 como valencia habitual → ácido bórico.\"},\n{f:\"H2CO3\", opciones:[\"ácido carbonoso\",\"ácido carbónico\",\"ácido percarbónico\",\"ácido hipocarbónico\"], c:1, e:\"C trabaja con +4 como valencia habitual → ácido carbónico.\"},\n{f:\"HNO2\", opciones:[\"ácido nitroso\",\"ácido nítrico\",\"ácido hiponitroso\",\"ácido pernítrico\"], c:0, e:\"N en +3, valencia menor → ácido nitroso.\"},\n{f:\"HNO3\", opciones:[\"ácido nitroso\",\"ácido nítrico\",\"ácido nitrogenoso\",\"ácido pernítrico\"], c:1, e:\"N en +5, valencia mayor → ácido nítrico.\"},\n{f:\"H2SO3\", opciones:[\"ácido sulfúrico\",\"ácido sulfuroso\",\"ácido hiposulfuroso\",\"ácido persulfúrico\"], c:1, e:\"S en +4, valencia menor → ácido sulfuroso.\"},\n{f:\"H2SO4\", opciones:[\"ácido sulfuroso\",\"ácido sulfúrico\",\"ácido persulfuroso\",\"ácido sulfhídrico\"], c:1, e:\"S en +6, valencia mayor → ácido sulfúrico.\"},\n{f:\"HClO\", opciones:[\"ácido hipocloroso\",\"ácido cloroso\",\"ácido clórico\",\"ácido perclórico\"], c:0, e:\"Cl en +1, la menor → ácido hipocloroso.\"},\n{f:\"HClO4\", opciones:[\"ácido clórico\",\"ácido cloroso\",\"ácido hipocloroso\",\"ácido perclórico\"], c:3, e:\"Cl en +7, la mayor → ácido perclórico.\"},\n{f:\"HMnO4\", opciones:[\"ácido manganoso\",\"ácido mangánico\",\"ácido permangánico\",\"ácido hipomanganoso\"], c:2, e:\"Mn en +7 → ácido permangánico.\"},\n{f:\"H2Cr2O7\", opciones:[\"ácido crómico\",\"ácido dicrómico\",\"ácido cromoso\",\"ácido percrómico\"], c:1, e:\"Tiene dos átomos de Cr → ácido dicrómico.\"}\n];\n\nlet puntosTradDef = 0;\nlet contestadasTradDef = new Array(preguntasTradDef.length).fill(false);\n\nfunction cargarTradDef(){\nconst cont = document.getElementById(\"preguntasTradDef\");\ncont.innerHTML = \"\";\n\npreguntasTradDef.forEach((p,i)=&gt;{\nconst box = document.createElement(\"div\");\nbox.style.background = \"white\";\nbox.style.border = \"1px solid #cbd5e1\";\nbox.style.borderRadius = \"14px\";\nbox.style.padding = \"16px\";\nbox.style.marginTop = \"14px\";\n\nbox.innerHTML = \"&lt;p&gt;&lt;strong&gt;\" + (i+1) + \") \" + p.f + \"&lt;/strong&gt;&lt;/p&gt;\";\n\np.opciones.forEach((op,j)=&gt;{\nconst b = document.createElement(\"button\");\nb.innerHTML = op;\nb.style.display = \"block\";\nb.style.width = \"100%\";\nb.style.margin = \"8px 0\";\nb.style.padding = \"10px\";\nb.style.textAlign = \"left\";\nb.style.borderRadius = \"10px\";\nb.style.border = \"1px solid #cbd5e1\";\nb.style.cursor = \"pointer\";\nb.onclick = ()=&gt;corregirTradDef(i,j,b);\nbox.appendChild(b);\n});\n\nconst fb = document.createElement(\"p\");\nfb.id = \"fbTradDef\" + i;\nfb.style.fontWeight = \"bold\";\nbox.appendChild(fb);\n\ncont.appendChild(box);\n});\n\nactualizarTradDef();\n}\n\nfunction corregirTradDef(i,j,b){\nconst p = preguntasTradDef[i];\nconst fb = document.getElementById(\"fbTradDef\"+i);\nconst botones = b.parentElement.querySelectorAll(\"button\");\n\nif(!contestadasTradDef[i]){\ncontestadasTradDef[i] = true;\nif(j === p.c) puntosTradDef++;\n}\n\nbotones.forEach((x,k)=&gt;{\nx.disabled = true;\nif(k === p.c) x.style.background = \"#dcfce7\";\nelse if(k === j) x.style.background = \"#fee2e2\";\n});\n\nfb.innerHTML = (j === p.c ? \"Correcto. \" : \"No es correcto. \") + p.e;\nfb.style.color = (j === p.c ? \"#166534\" : \"#991b1b\");\n\nactualizarTradDef();\n}\n\nfunction actualizarTradDef(){\nconst respondidas = contestadasTradDef.filter(x=&gt;x).length;\ndocument.getElementById(\"resultadoTradDef\").innerHTML =\n\"Puntuación: \" + puntosTradDef + \"/\" + preguntasTradDef.length +\n\" | Respondidas: \" + respondidas + \"/\" + preguntasTradDef.length;\n}\n\nfunction reiniciarTradDef(){\npuntosTradDef = 0;\ncontestadasTradDef = new Array(preguntasTradDef.length).fill(false);\ncargarTradDef();\n}\n\ncargarTradDef();\n&lt;/script&gt;\n&lt;/p&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152ZSMRYD</odeBlockId><blockName>Escribe el nombre</blockName><iconName/><odePagStructureOrder>8</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152ZSMRYD</odeBlockId><odeIdeviceId>202604281549372359RD</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div id="tradicionalEscribir" style="font-family: Arial,sans-serif; background: #f8fafc; border: 1px solid #dbeafe; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Practica: escribe el nombre tradicional&lt;/h2&gt;
+&lt;p&gt;Escribe el nombre tradicional correcto del oxoácido.&lt;/p&gt;
+&lt;div id="preguntasEscribirTrad"&gt;&lt;/div&gt;
+&lt;button onclick="reiniciarEscribirTrad()" style="margin-top: 18px; background: #2563eb; color: white; border: none; padding: 12px 18px; border-radius: 12px; font-weight: bold; cursor: pointer;"&gt; Reiniciar actividad &lt;/button&gt;
+&lt;p id="resultadoEscribirTrad" style="font-size: 18px; font-weight: bold; margin-top: 16px;"&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;script&gt;
+const ejerciciosEscribirTrad = [
+{
+formula:"HNO3",
+respuesta:["acidonitrico","ácidonítrico"],
+exp:"N trabaja con +5 (valencia mayor) → terminación -ico → ácido nítrico."
+},
+{
+formula:"H2SO3",
+respuesta:["acidosulfuroso","ácidosulfuroso"],
+exp:"S trabaja con +4 (valencia menor) → ácido sulfuroso."
+},
+{
+formula:"HClO4",
+respuesta:["acidoperclorico","ácidoperclórico"],
+exp:"Cl en +7 → máximo estado → prefijo per- y sufijo -ico → ácido perclórico."
+},
+{
+formula:"H3PO3",
+respuesta:["acidofosforoso","ácidofosforoso"],
+exp:"P en +3 → valencia menor → ácido fosforoso."
+},
+{
+formula:"HMnO4",
+respuesta:["acidopermanganico","ácidopermangánico"],
+exp:"Mn en +7 → ácido permangánico."
+},
+{
+formula:"H2Cr2O7",
+respuesta:["acidodicromico","ácidodicrómico"],
+exp:"Contiene dos átomos de Cr → ácido dicrómico."
+},
+{
+formula:"H3AsO4",
+respuesta:["acidoarsenico","ácidoarsénico"],
+exp:"As en +5 → valencia mayor → ácido arsénico."
+},
+{
+formula:"H3BO3",
+respuesta:["acidoborico","ácidobórico"],
+exp:"B tiene una valencia habitual → ácido bórico."
+}
+];
+
+let puntosEscribirTrad = 0;
+let respondidasEscribirTrad = new Array(ejerciciosEscribirTrad.length).fill(false);
+
+function normalizarTexto(txt){
+return txt
+.toLowerCase()
+.normalize("NFD")
+.replace(/[\u0300-\u036f]/g,"")
+.replace(/\s+/g,"");
+}
+
+function cargarEscribirTrad(){
+const cont = document.getElementById("preguntasEscribirTrad");
+cont.innerHTML = "";
+
+ejerciciosEscribirTrad.forEach((p,i)=&gt;{
+const box = document.createElement("div");
+box.style.background="white";
+box.style.border="1px solid #cbd5e1";
+box.style.borderRadius="14px";
+box.style.padding="16px";
+box.style.marginTop="14px";
+
+box.innerHTML=`
+&lt;p&gt;&lt;strong&gt;${i+1}) ${p.formula}&lt;/strong&gt;&lt;/p&gt;
+&lt;input id="respTrad${i}" type="text"
+placeholder="Escribe aquí el nombre..."
+style="width:100%;padding:10px;border-radius:10px;border:1px solid #cbd5e1;margin-top:8px;"&gt;
+&lt;button onclick="corregirEscribirTrad(${i})"
+style="margin-top:10px;padding:10px 14px;border:none;background:#2563eb;color:white;border-radius:10px;cursor:pointer;"&gt;
+Corregir
+&lt;/button&gt;
+&lt;p id="fbEscribirTrad${i}" style="font-weight:bold;margin-top:10px;"&gt;&lt;/p&gt;
+`;
+
+cont.appendChild(box);
+});
+
+actualizarEscribirTrad();
+}
+
+function corregirEscribirTrad(i){
+const entrada = document.getElementById("respTrad"+i);
+const fb = document.getElementById("fbEscribirTrad"+i);
+const valor = normalizarTexto(entrada.value);
+const p = ejerciciosEscribirTrad[i];
+
+if(valor===""){
+fb.style.color="#991b1b";
+fb.innerHTML="Escribe una respuesta.";
+return;
+}
+
+const correcta = p.respuesta.some(r=&gt;normalizarTexto(r)===valor);
+
+if(!respondidasEscribirTrad[i]){
+respondidasEscribirTrad[i]=true;
+if(correcta) puntosEscribirTrad++;
+}
+
+entrada.disabled=true;
+
+if(correcta){
+entrada.style.background="#dcfce7";
+fb.style.color="#166534";
+fb.innerHTML="✔ Correcto. " + p.exp;
+}else{
+entrada.style.background="#fee2e2";
+fb.style.color="#991b1b";
+fb.innerHTML="✘ No es correcto. Respuesta: &lt;strong&gt;" + p.respuesta[1] + "&lt;/strong&gt;. " + p.exp;
+}
+
+actualizarEscribirTrad();
+}
+
+function actualizarEscribirTrad(){
+const respondidas = respondidasEscribirTrad.filter(x=&gt;x).length;
+document.getElementById("resultadoEscribirTrad").innerHTML =
+"Puntuación: " + puntosEscribirTrad + "/" + ejerciciosEscribirTrad.length +
+" | Respondidas: " + respondidas + "/" + ejerciciosEscribirTrad.length;
+}
+
+function reiniciarEscribirTrad(){
+puntosEscribirTrad = 0;
+respondidasEscribirTrad = new Array(ejerciciosEscribirTrad.length).fill(false);
+cargarEscribirTrad();
+}
+
+cargarEscribirTrad();
+&lt;/script&gt;
+&lt;/p&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"202604281549372359RD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div id=\"tradicionalEscribir\" style=\"font-family: Arial,sans-serif; background: #f8fafc; border: 1px solid #dbeafe; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Practica: escribe el nombre tradicional&lt;/h2&gt;\n&lt;p&gt;Escribe el nombre tradicional correcto del oxoácido.&lt;/p&gt;\n&lt;div id=\"preguntasEscribirTrad\"&gt;&lt;/div&gt;\n&lt;button onclick=\"reiniciarEscribirTrad()\" style=\"margin-top: 18px; background: #2563eb; color: white; border: none; padding: 12px 18px; border-radius: 12px; font-weight: bold; cursor: pointer;\"&gt; Reiniciar actividad &lt;/button&gt;\n&lt;p id=\"resultadoEscribirTrad\" style=\"font-size: 18px; font-weight: bold; margin-top: 16px;\"&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;p&gt;\n&lt;script&gt;\nconst ejerciciosEscribirTrad = [\n{\nformula:\"HNO3\",\nrespuesta:[\"acidonitrico\",\"ácidonítrico\"],\nexp:\"N trabaja con +5 (valencia mayor) → terminación -ico → ácido nítrico.\"\n},\n{\nformula:\"H2SO3\",\nrespuesta:[\"acidosulfuroso\",\"ácidosulfuroso\"],\nexp:\"S trabaja con +4 (valencia menor) → ácido sulfuroso.\"\n},\n{\nformula:\"HClO4\",\nrespuesta:[\"acidoperclorico\",\"ácidoperclórico\"],\nexp:\"Cl en +7 → máximo estado → prefijo per- y sufijo -ico → ácido perclórico.\"\n},\n{\nformula:\"H3PO3\",\nrespuesta:[\"acidofosforoso\",\"ácidofosforoso\"],\nexp:\"P en +3 → valencia menor → ácido fosforoso.\"\n},\n{\nformula:\"HMnO4\",\nrespuesta:[\"acidopermanganico\",\"ácidopermangánico\"],\nexp:\"Mn en +7 → ácido permangánico.\"\n},\n{\nformula:\"H2Cr2O7\",\nrespuesta:[\"acidodicromico\",\"ácidodicrómico\"],\nexp:\"Contiene dos átomos de Cr → ácido dicrómico.\"\n},\n{\nformula:\"H3AsO4\",\nrespuesta:[\"acidoarsenico\",\"ácidoarsénico\"],\nexp:\"As en +5 → valencia mayor → ácido arsénico.\"\n},\n{\nformula:\"H3BO3\",\nrespuesta:[\"acidoborico\",\"ácidobórico\"],\nexp:\"B tiene una valencia habitual → ácido bórico.\"\n}\n];\n\nlet puntosEscribirTrad = 0;\nlet respondidasEscribirTrad = new Array(ejerciciosEscribirTrad.length).fill(false);\n\nfunction normalizarTexto(txt){\nreturn txt\n.toLowerCase()\n.normalize(\"NFD\")\n.replace(/[\\u0300-\\u036f]/g,\"\")\n.replace(/\\s+/g,\"\");\n}\n\nfunction cargarEscribirTrad(){\nconst cont = document.getElementById(\"preguntasEscribirTrad\");\ncont.innerHTML = \"\";\n\nejerciciosEscribirTrad.forEach((p,i)=&gt;{\nconst box = document.createElement(\"div\");\nbox.style.background=\"white\";\nbox.style.border=\"1px solid #cbd5e1\";\nbox.style.borderRadius=\"14px\";\nbox.style.padding=\"16px\";\nbox.style.marginTop=\"14px\";\n\nbox.innerHTML=`\n&lt;p&gt;&lt;strong&gt;${i+1}) ${p.formula}&lt;/strong&gt;&lt;/p&gt;\n&lt;input id=\"respTrad${i}\" type=\"text\"\nplaceholder=\"Escribe aquí el nombre...\"\nstyle=\"width:100%;padding:10px;border-radius:10px;border:1px solid #cbd5e1;margin-top:8px;\"&gt;\n&lt;button onclick=\"corregirEscribirTrad(${i})\"\nstyle=\"margin-top:10px;padding:10px 14px;border:none;background:#2563eb;color:white;border-radius:10px;cursor:pointer;\"&gt;\nCorregir\n&lt;/button&gt;\n&lt;p id=\"fbEscribirTrad${i}\" style=\"font-weight:bold;margin-top:10px;\"&gt;&lt;/p&gt;\n`;\n\ncont.appendChild(box);\n});\n\nactualizarEscribirTrad();\n}\n\nfunction corregirEscribirTrad(i){\nconst entrada = document.getElementById(\"respTrad\"+i);\nconst fb = document.getElementById(\"fbEscribirTrad\"+i);\nconst valor = normalizarTexto(entrada.value);\nconst p = ejerciciosEscribirTrad[i];\n\nif(valor===\"\"){\nfb.style.color=\"#991b1b\";\nfb.innerHTML=\"Escribe una respuesta.\";\nreturn;\n}\n\nconst correcta = p.respuesta.some(r=&gt;normalizarTexto(r)===valor);\n\nif(!respondidasEscribirTrad[i]){\nrespondidasEscribirTrad[i]=true;\nif(correcta) puntosEscribirTrad++;\n}\n\nentrada.disabled=true;\n\nif(correcta){\nentrada.style.background=\"#dcfce7\";\nfb.style.color=\"#166534\";\nfb.innerHTML=\"✔ Correcto. \" + p.exp;\n}else{\nentrada.style.background=\"#fee2e2\";\nfb.style.color=\"#991b1b\";\nfb.innerHTML=\"✘ No es correcto. Respuesta: &lt;strong&gt;\" + p.respuesta[1] + \"&lt;/strong&gt;. \" + p.exp;\n}\n\nactualizarEscribirTrad();\n}\n\nfunction actualizarEscribirTrad(){\nconst respondidas = respondidasEscribirTrad.filter(x=&gt;x).length;\ndocument.getElementById(\"resultadoEscribirTrad\").innerHTML =\n\"Puntuación: \" + puntosEscribirTrad + \"/\" + ejerciciosEscribirTrad.length +\n\" | Respondidas: \" + respondidas + \"/\" + ejerciciosEscribirTrad.length;\n}\n\nfunction reiniciarEscribirTrad(){\npuntosEscribirTrad = 0;\nrespondidasEscribirTrad = new Array(ejerciciosEscribirTrad.length).fill(false);\ncargarEscribirTrad();\n}\n\ncargarEscribirTrad();\n&lt;/script&gt;\n&lt;/p&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152UKWBVU</odeBlockId><blockName>Contimúa practicando</blockName><iconName/><odePagStructureOrder>9</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260428143152WNVUJQ</odePageId><odeBlockId>20260428143152UKWBVU</odeBlockId><odeIdeviceId>20260428155502489PKG</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div id="tradicionalEscribir2" style="font-family: Arial,sans-serif; background: #f8fafc; border: 1px solid #dbeafe; border-radius: 18px; padding: 22px;"&gt;
+&lt;h2 style="color: #1d4ed8; margin-top: 0;"&gt;Practica avanzada: escribe el nombre tradicional&lt;/h2&gt;
+&lt;p&gt;Escribe el nombre tradicional del oxoácido. Puedes escribir con o sin tildes; la actividad lo corregirá igualmente.&lt;/p&gt;
+&lt;div id="preguntasEscribirTrad2"&gt;&lt;/div&gt;
+&lt;button onclick="reiniciarEscribirTrad2()" style="margin-top: 18px; background: #2563eb; color: white; border: none; padding: 12px 18px; border-radius: 12px; font-weight: bold; cursor: pointer;"&gt; Reiniciar actividad &lt;/button&gt;
+&lt;p id="resultadoEscribirTrad2" style="font-size: 18px; font-weight: bold; margin-top: 16px;"&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;script&gt;
+const ejerciciosEscribirTrad2 = [
+{formula:"HNO2", respuesta:"ácido nitroso", exp:"N en +3 → valencia menor → ácido nitroso."},
+{formula:"HNO3", respuesta:"ácido nítrico", exp:"N en +5 → valencia mayor → ácido nítrico."},
+{formula:"H2SO3", respuesta:"ácido sulfuroso", exp:"S en +4 → valencia menor → ácido sulfuroso."},
+{formula:"H2SO4", respuesta:"ácido sulfúrico", exp:"S en +6 → valencia mayor → ácido sulfúrico."},
+{formula:"H3PO3", respuesta:"ácido fosforoso", exp:"P en +3 → ácido fosforoso."},
+{formula:"H3PO4", respuesta:"ácido fosfórico", exp:"P en +5 → ácido fosfórico."},
+{formula:"H3AsO3", respuesta:"ácido arsenioso", exp:"As en +3 → ácido arsenioso."},
+{formula:"H3AsO4", respuesta:"ácido arsénico", exp:"As en +5 → ácido arsénico."},
+{formula:"HClO", respuesta:"ácido hipocloroso", exp:"Cl en +1 → hipo...oso."},
+{formula:"HClO2", respuesta:"ácido cloroso", exp:"Cl en +3 → ...oso."},
+{formula:"HClO3", respuesta:"ácido clórico", exp:"Cl en +5 → ...ico."},
+{formula:"HClO4", respuesta:"ácido perclórico", exp:"Cl en +7 → per...ico."},
+{formula:"HBrO", respuesta:"ácido hipobromoso", exp:"Br en +1 → hipo...oso."},
+{formula:"HBrO3", respuesta:"ácido brómico", exp:"Br en +5 → ...ico."},
+{formula:"HIO", respuesta:"ácido hipoyodoso", exp:"I en +1 → hipo...oso."},
+{formula:"HIO4", respuesta:"ácido peryódico", exp:"I en +7 → per...ico."},
+{formula:"H3BO3", respuesta:"ácido bórico", exp:"B trabaja con +3 como valencia habitual → ácido bórico."},
+{formula:"H2CO3", respuesta:"ácido carbónico", exp:"C trabaja con +4 como valencia habitual → ácido carbónico."},
+{formula:"H2SiO3", respuesta:"ácido silícico", exp:"Si trabaja con +4 como valencia habitual → ácido silícico."},
+{formula:"H2CrO4", respuesta:"ácido crómico", exp:"Cr en +6 con un átomo de cromo → ácido crómico."},
+{formula:"H2Cr2O7", respuesta:"ácido dicrómico", exp:"Cr en +6 y dos átomos de cromo → ácido dicrómico."},
+{formula:"H2MnO4", respuesta:"ácido mangánico", exp:"Mn en +6 → ácido mangánico."},
+{formula:"HMnO4", respuesta:"ácido permangánico", exp:"Mn en +7 → ácido permangánico."}
+];
+
+let puntosEscribirTrad2 = 0;
+let respondidasEscribirTrad2 = new Array(ejerciciosEscribirTrad2.length).fill(false);
+
+function normalizarTrad2(txt){
+return txt
+.toLowerCase()
+.normalize("NFD")
+.replace(/[\u0300-\u036f]/g,"")
+.replace(/\s+/g,"")
+.replace(/\./g,"");
+}
+
+function cargarEscribirTrad2(){
+const cont = document.getElementById("preguntasEscribirTrad2");
+cont.innerHTML = "";
+
+ejerciciosEscribirTrad2.forEach((p,i)=&gt;{
+const box = document.createElement("div");
+box.style.background="white";
+box.style.border="1px solid #cbd5e1";
+box.style.borderRadius="14px";
+box.style.padding="16px";
+box.style.marginTop="14px";
+
+box.innerHTML=`
+&lt;p&gt;&lt;strong&gt;${i+1}) ${p.formula}&lt;/strong&gt;&lt;/p&gt;
+&lt;input id="respTrad2_${i}" type="text"
+placeholder="Ejemplo: ácido sulfúrico"
+style="width:100%;padding:10px;border-radius:10px;border:1px solid #cbd5e1;margin-top:8px;"&gt;
+&lt;button onclick="corregirEscribirTrad2(${i})"
+style="margin-top:10px;padding:10px 14px;border:none;background:#2563eb;color:white;border-radius:10px;cursor:pointer;"&gt;
+Corregir
+&lt;/button&gt;
+&lt;p id="fbTrad2_${i}" style="font-weight:bold;margin-top:10px;"&gt;&lt;/p&gt;
+`;
+
+cont.appendChild(box);
+});
+
+actualizarEscribirTrad2();
+}
+
+function corregirEscribirTrad2(i){
+const entrada = document.getElementById("respTrad2_" + i);
+const fb = document.getElementById("fbTrad2_" + i);
+const valor = normalizarTrad2(entrada.value);
+const p = ejerciciosEscribirTrad2[i];
+const correcta = normalizarTrad2(p.respuesta);
+
+if(valor===""){
+fb.style.color="#991b1b";
+fb.innerHTML="Escribe una respuesta.";
+return;
+}
+
+const acierto = valor === correcta;
+
+if(!respondidasEscribirTrad2[i]){
+respondidasEscribirTrad2[i]=true;
+if(acierto) puntosEscribirTrad2++;
+}
+
+entrada.disabled=true;
+
+if(acierto){
+entrada.style.background="#dcfce7";
+fb.style.color="#166534";
+fb.innerHTML="✔ Correcto. " + p.exp;
+}else{
+entrada.style.background="#fee2e2";
+fb.style.color="#991b1b";
+fb.innerHTML="✘ No es correcto. Respuesta correcta: &lt;strong&gt;" + p.respuesta + "&lt;/strong&gt;. " + p.exp;
+}
+
+actualizarEscribirTrad2();
+}
+
+function actualizarEscribirTrad2(){
+const respondidas = respondidasEscribirTrad2.filter(x=&gt;x).length;
+document.getElementById("resultadoEscribirTrad2").innerHTML =
+"Puntuación: " + puntosEscribirTrad2 + "/" + ejerciciosEscribirTrad2.length +
+" | Respondidas: " + respondidas + "/" + ejerciciosEscribirTrad2.length;
+}
+
+function reiniciarEscribirTrad2(){
+puntosEscribirTrad2 = 0;
+respondidasEscribirTrad2 = new Array(ejerciciosEscribirTrad2.length).fill(false);
+cargarEscribirTrad2();
+}
+
+cargarEscribirTrad2();
+&lt;/script&gt;
+&lt;/p&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260428155502489PKG","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div id=\"tradicionalEscribir2\" style=\"font-family: Arial,sans-serif; background: #f8fafc; border: 1px solid #dbeafe; border-radius: 18px; padding: 22px;\"&gt;\n&lt;h2 style=\"color: #1d4ed8; margin-top: 0;\"&gt;Practica avanzada: escribe el nombre tradicional&lt;/h2&gt;\n&lt;p&gt;Escribe el nombre tradicional del oxoácido. Puedes escribir con o sin tildes; la actividad lo corregirá igualmente.&lt;/p&gt;\n&lt;div id=\"preguntasEscribirTrad2\"&gt;&lt;/div&gt;\n&lt;button onclick=\"reiniciarEscribirTrad2()\" style=\"margin-top: 18px; background: #2563eb; color: white; border: none; padding: 12px 18px; border-radius: 12px; font-weight: bold; cursor: pointer;\"&gt; Reiniciar actividad &lt;/button&gt;\n&lt;p id=\"resultadoEscribirTrad2\" style=\"font-size: 18px; font-weight: bold; margin-top: 16px;\"&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;p&gt;\n&lt;script&gt;\nconst ejerciciosEscribirTrad2 = [\n{formula:\"HNO2\", respuesta:\"ácido nitroso\", exp:\"N en +3 → valencia menor → ácido nitroso.\"},\n{formula:\"HNO3\", respuesta:\"ácido nítrico\", exp:\"N en +5 → valencia mayor → ácido nítrico.\"},\n{formula:\"H2SO3\", respuesta:\"ácido sulfuroso\", exp:\"S en +4 → valencia menor → ácido sulfuroso.\"},\n{formula:\"H2SO4\", respuesta:\"ácido sulfúrico\", exp:\"S en +6 → valencia mayor → ácido sulfúrico.\"},\n{formula:\"H3PO3\", respuesta:\"ácido fosforoso\", exp:\"P en +3 → ácido fosforoso.\"},\n{formula:\"H3PO4\", respuesta:\"ácido fosfórico\", exp:\"P en +5 → ácido fosfórico.\"},\n{formula:\"H3AsO3\", respuesta:\"ácido arsenioso\", exp:\"As en +3 → ácido arsenioso.\"},\n{formula:\"H3AsO4\", respuesta:\"ácido arsénico\", exp:\"As en +5 → ácido arsénico.\"},\n{formula:\"HClO\", respuesta:\"ácido hipocloroso\", exp:\"Cl en +1 → hipo...oso.\"},\n{formula:\"HClO2\", respuesta:\"ácido cloroso\", exp:\"Cl en +3 → ...oso.\"},\n{formula:\"HClO3\", respuesta:\"ácido clórico\", exp:\"Cl en +5 → ...ico.\"},\n{formula:\"HClO4\", respuesta:\"ácido perclórico\", exp:\"Cl en +7 → per...ico.\"},\n{formula:\"HBrO\", respuesta:\"ácido hipobromoso\", exp:\"Br en +1 → hipo...oso.\"},\n{formula:\"HBrO3\", respuesta:\"ácido brómico\", exp:\"Br en +5 → ...ico.\"},\n{formula:\"HIO\", respuesta:\"ácido hipoyodoso\", exp:\"I en +1 → hipo...oso.\"},\n{formula:\"HIO4\", respuesta:\"ácido peryódico\", exp:\"I en +7 → per...ico.\"},\n{formula:\"H3BO3\", respuesta:\"ácido bórico\", exp:\"B trabaja con +3 como valencia habitual → ácido bórico.\"},\n{formula:\"H2CO3\", respuesta:\"ácido carbónico\", exp:\"C trabaja con +4 como valencia habitual → ácido carbónico.\"},\n{formula:\"H2SiO3\", respuesta:\"ácido silícico\", exp:\"Si trabaja con +4 como valencia habitual → ácido silícico.\"},\n{formula:\"H2CrO4\", respuesta:\"ácido crómico\", exp:\"Cr en +6 con un átomo de cromo → ácido crómico.\"},\n{formula:\"H2Cr2O7\", respuesta:\"ácido dicrómico\", exp:\"Cr en +6 y dos átomos de cromo → ácido dicrómico.\"},\n{formula:\"H2MnO4\", respuesta:\"ácido mangánico\", exp:\"Mn en +6 → ácido mangánico.\"},\n{formula:\"HMnO4\", respuesta:\"ácido permangánico\", exp:\"Mn en +7 → ácido permangánico.\"}\n];\n\nlet puntosEscribirTrad2 = 0;\nlet respondidasEscribirTrad2 = new Array(ejerciciosEscribirTrad2.length).fill(false);\n\nfunction normalizarTrad2(txt){\nreturn txt\n.toLowerCase()\n.normalize(\"NFD\")\n.replace(/[\\u0300-\\u036f]/g,\"\")\n.replace(/\\s+/g,\"\")\n.replace(/\\./g,\"\");\n}\n\nfunction cargarEscribirTrad2(){\nconst cont = document.getElementById(\"preguntasEscribirTrad2\");\ncont.innerHTML = \"\";\n\nejerciciosEscribirTrad2.forEach((p,i)=&gt;{\nconst box = document.createElement(\"div\");\nbox.style.background=\"white\";\nbox.style.border=\"1px solid #cbd5e1\";\nbox.style.borderRadius=\"14px\";\nbox.style.padding=\"16px\";\nbox.style.marginTop=\"14px\";\n\nbox.innerHTML=`\n&lt;p&gt;&lt;strong&gt;${i+1}) ${p.formula}&lt;/strong&gt;&lt;/p&gt;\n&lt;input id=\"respTrad2_${i}\" type=\"text\"\nplaceholder=\"Ejemplo: ácido sulfúrico\"\nstyle=\"width:100%;padding:10px;border-radius:10px;border:1px solid #cbd5e1;margin-top:8px;\"&gt;\n&lt;button onclick=\"corregirEscribirTrad2(${i})\"\nstyle=\"margin-top:10px;padding:10px 14px;border:none;background:#2563eb;color:white;border-radius:10px;cursor:pointer;\"&gt;\nCorregir\n&lt;/button&gt;\n&lt;p id=\"fbTrad2_${i}\" style=\"font-weight:bold;margin-top:10px;\"&gt;&lt;/p&gt;\n`;\n\ncont.appendChild(box);\n});\n\nactualizarEscribirTrad2();\n}\n\nfunction corregirEscribirTrad2(i){\nconst entrada = document.getElementById(\"respTrad2_\" + i);\nconst fb = document.getElementById(\"fbTrad2_\" + i);\nconst valor = normalizarTrad2(entrada.value);\nconst p = ejerciciosEscribirTrad2[i];\nconst correcta = normalizarTrad2(p.respuesta);\n\nif(valor===\"\"){\nfb.style.color=\"#991b1b\";\nfb.innerHTML=\"Escribe una respuesta.\";\nreturn;\n}\n\nconst acierto = valor === correcta;\n\nif(!respondidasEscribirTrad2[i]){\nrespondidasEscribirTrad2[i]=true;\nif(acierto) puntosEscribirTrad2++;\n}\n\nentrada.disabled=true;\n\nif(acierto){\nentrada.style.background=\"#dcfce7\";\nfb.style.color=\"#166534\";\nfb.innerHTML=\"✔ Correcto. \" + p.exp;\n}else{\nentrada.style.background=\"#fee2e2\";\nfb.style.color=\"#991b1b\";\nfb.innerHTML=\"✘ No es correcto. Respuesta correcta: &lt;strong&gt;\" + p.respuesta + \"&lt;/strong&gt;. \" + p.exp;\n}\n\nactualizarEscribirTrad2();\n}\n\nfunction actualizarEscribirTrad2(){\nconst respondidas = respondidasEscribirTrad2.filter(x=&gt;x).length;\ndocument.getElementById(\"resultadoEscribirTrad2\").innerHTML =\n\"Puntuación: \" + puntosEscribirTrad2 + \"/\" + ejerciciosEscribirTrad2.length +\n\" | Respondidas: \" + respondidas + \"/\" + ejerciciosEscribirTrad2.length;\n}\n\nfunction reiniciarEscribirTrad2(){\npuntosEscribirTrad2 = 0;\nrespondidasEscribirTrad2 = new Array(ejerciciosEscribirTrad2.length).fill(false);\ncargarEscribirTrad2();\n}\n\ncargarEscribirTrad2();\n&lt;/script&gt;\n&lt;/p&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure></odePagStructures></odeNavStructure></odeNavStructures></ode>
